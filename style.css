@@ -1,0 +1,20 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+.main{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(20, 15, 15);/*linear-gradient(to bottom,#240747 , transparent);*/
+    text-shadow: 0 0 20px #e84a5f, 0 0 20px #e84a5f;
+    border-bottom: 2px solid rgb(48, 34, 8);
+}
+.section{
+    width: auto;
+    height: 599px;
+    color: white;
+    background-image: url("cat.png");
+    background-size: cover;
+}
